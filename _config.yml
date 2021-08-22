@@ -26,7 +26,6 @@ baseurl: "/hobbies_blog" # the subpath of your site, e.g. /blog
 url: "https://jackg102.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: JackG1021
 github_username: JackG102
-linkedin_username: jack-garratt-9521b615b
 
 # Build settings
 theme: minima
