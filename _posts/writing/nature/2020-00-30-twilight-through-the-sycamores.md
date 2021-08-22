@@ -2,7 +2,8 @@
 layout: post
 title:  "Twilight through the Sycamores"
 date:   2020-09-30 09:00:45 -0400
-categories: writing nature-vignettes
+categories: nature nature-vignettes
+permalink: /writing/:title
 ---
 
 One evening, I went for a walk to Madison Manor Park: a postage stamp green space with tennis courts and a playground.  The week's cumulative demands had eroded my energy as I stressed about bills and general life choices.  I stepped from the sidewalk onto the park's faded green grass.   Light laughter emanated from the group of children playing soccer.  They were oblivious to their parents shuffling in place ready to leave.  The sun had set.

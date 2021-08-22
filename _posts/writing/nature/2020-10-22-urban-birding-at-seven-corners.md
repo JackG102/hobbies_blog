@@ -2,7 +2,8 @@
 layout: post
 title:  "Urban Birding at Seven Corners"
 date:   2020-08-22 08:58:45 -0400
-categories: writing nature-vignettes
+categories: nature nature-vignettes
+permalink: /writing/:title
 ---
 I bird at the 7 Corners shopping plaza.  There is a pedestrian bridge that evokes the style of a medieval battlement.  The walls are thick, the stairwells sprayed with acrid urine, and two large ramps for physically-impaired or stair-averse people to walk up.  The ramps gently slope towards the turreted towers surrounding the highway.  Broken glass and Durex wrappers peek from the crevices.  Spray paint ligatures accent the egg-shell walls.  They do not hold tightly to their stories of how they arrived at that location.  I see a gentleman lying on the ground, face down.  His sleeveless shirt is stained.  Tangerine spittle colors the asphalt next him.  His feet bare, the shoes removed.  He strains to look up as I pass by, his cheek pockmarked by resting on the ground.  I should feel compassion.  I reach the far side of the pedestrian bridge and position my binoculars to observe my favorite birds: Rock Pigeons.  
 

@@ -1,7 +1,8 @@
 ---
 layout: post
 title:  "Leaving Behind Academia"
-categories: writing academia
+categories: personal prose
+permalink: /writing/:title
 ---
 I stood in a field of wild grasses. They shimmered with their golden stalks and coated at the roots with a matted, green understory. The sun was rising over the Rappahannock river. The light flickering through the gaps in the trees, casting its speckled rays onto the field. Upon feeling the gentle morning light, the dragon flies rose to meet the sunrise. The dew licked the tops of my feet as the wet grass moistened my sneakers. The river's white haze intensified as the sun crept above the horizon.
 
